@@ -1,1 +1,1 @@
-# disease_prediction
+# Stock-market-prediction
